@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - heheSDK (1.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - heheSDK (from `../`)
+
+EXTERNAL SOURCES:
+  heheSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  heheSDK: b899bf76b9daf3e15821c830400c1cfed0e5ef13
+
+PODFILE CHECKSUM: 79e32046cea3218c3b99bf57c495a9964bf851a4
+
+COCOAPODS: 1.2.0

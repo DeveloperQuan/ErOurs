@@ -1,0 +1,6 @@
+framework module Pods_heheSDK_Example {
+  umbrella header "Pods-heheSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

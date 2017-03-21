@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+#import "XLMath.h"
 
 @interface ErAppDelegate : UIResponder <UIApplicationDelegate>
 

@@ -1,0 +1,6 @@
+framework module heheSDK {
+  umbrella header "heheSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
